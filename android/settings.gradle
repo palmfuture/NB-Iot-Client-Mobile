@@ -1,0 +1,3 @@
+rootProject.name = 'LED SWITCHER'
+
+include ':app'
